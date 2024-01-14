@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author":"nath",
+	"author": "nathaniel",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,6 +10,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/nathphil9411/boilerplate-npm"
 	}
 }
